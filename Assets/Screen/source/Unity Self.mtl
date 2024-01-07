@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 29.06.2022 08:44:21
+
+newmtl Screen_Type_1
+	Ns 50.0000
+	Ni 1.6000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Tech Screen Type 1.jpg
+	map_Kd Tech Screen Type 1.jpg
+	map_refl Raytrace_Raytrace.tga
+
+newmtl Screen_Type_1_Symbol
+	Ns 33.0000
+	Ni 1.6000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Tech Screen Type 1.jpg
+	map_Kd Tech Screen Type 1.jpg
+	map_refl Raytrace_Raytrace.tga
+
+newmtl Matte_Black
+	Ns 33.0000
+	Ni 1.6000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_refl Raytrace_Raytrace.tga
